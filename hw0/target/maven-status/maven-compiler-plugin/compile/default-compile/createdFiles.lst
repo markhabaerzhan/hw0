@@ -1,0 +1,5 @@
+edu\narxoz\galactic\bodies\CelestialBody.class
+edu\narxoz\galactic\drones\Drone.class
+edu\narxoz\galactic\bodies\SpaceStation.class
+edu\narxoz\galactic\bodies\Planet.class
+edu\narxoz\galactic\drones\DroneStatus.class
